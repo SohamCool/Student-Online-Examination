@@ -1,0 +1,116 @@
+.one {
+	display: flex;
+  height: 100px;
+  width: 100%;
+  /*background-color: powderblue;*/
+  border-bottom: solid;
+  border width: 10px;
+
+}
+.childone{
+
+	display: flex;
+	justify-content: space-between;
+	height: 100px;
+    width: 50%;
+    /*background-color: orange;*/
+
+}
+.childone img{
+	margin-left: 20px;
+}
+
+.childtwo{
+	
+	height: 100px;
+    width: 50%;
+    /*background-color: green;*/
+    margin-right: 230px;
+    margin-top: 10px;
+}
+.right{
+	display: flex;
+	justify-content: space-between;
+	height: 100px;
+	width: 50%;
+	text-decoration: underline;
+	/*background-color: red;*/
+	color: cyan;
+}
+.r1{
+	margin-left: 580px;
+	
+}
+.r2{
+	margin-right: 20px;
+
+ }
+ .studSec{
+ 	display: flex;
+ 	height: 50px;
+ 	width: 100%;
+ 	/*background-color: cyan;*/
+ }
+ .s1{
+ 	width: 30%;
+ 	/*background-color: brown;*/
+
+ }
+ .s2{
+ 	width: 70%;
+ 	/*background-color: yellow;*/
+ }
+ .s1 h4{
+ 	position:absolute;
+ 	margin-top: 0px;
+ 	margin-left: 20px;
+ }
+ .s2 h2{
+ 	margin-left: 25%;
+ }
+ .form{
+ 	display: flex;
+ 	justify-content:space-between;
+ 	height: 500px;
+ 	width: 100%;
+ 	/*background-color: orange;*/
+ }
+ .form1{
+ 	margin-top: 50px;
+ 	margin-left: 200px;
+ 	height: 250px;
+ 	width: 400px;
+ 	border-style: solid;
+ 	/*background-color: blue;*/
+ }
+ .form1 h3{
+ 	padding-left: 70px;
+ }
+ .form1 button{
+ 	margin-left: 38%;
+ 	margin-top: 20%;
+
+ }
+ .form2{
+ 	height: 300px;
+ 	width: 400px;
+ 	margin-right: 130px;
+ 	margin-top: 150px;
+ 	border-style: solid;
+ 	/*background-color: yellow;*/
+ 	 }
+.form2 h3{
+	padding-left: 150px;
+}
+.form2 h4{
+	padding-left: 100px;
+}
+.form select{
+	margin-left:100px;
+}
+.form input{
+	margin-left:100px;
+}
+#b1{
+	margin-left: 42%;
+}
